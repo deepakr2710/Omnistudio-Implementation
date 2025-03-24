@@ -1,0 +1,5 @@
+Hi {!Contact.Name}
+<br>
+Case {!Case.CaseNumber} has been assigned to you.
+<br>
+<a href='https://creationtechnologysolutionslimited.lightning.force.com/lightning/r/Case/{!Case.Id}/view'>https://creationtechnologysolutionslimited.lightning.force.com/lightning/r/Case/{!Case.Id}/view</a>
