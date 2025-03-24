@@ -37,6 +37,9 @@
 		<members>GetContacts_1</members>
 		<members>IsLookup_1</members>
 		<members>LoadAccountsWithContacts_1</members>
+		<members>CreateCase_1</members>
+		<members>CreateContactBasedOnEmail_1</members>
+		<members>GetContactsMatchesEmail_1</members>
 		<name>OmniDataTransform</name>
 	</types>
 	<types>
@@ -44,6 +47,7 @@
 		<members>Account_WithContacts_Procedure_3</members>
 		<members>ContactIP_NameIP_Procedure_1</members>
 		<members>Test_IPTest_Procedure_1</members>
+		<members>CaseContact_create_Procedure_1</members>
 		<name>OmniIntegrationProcedure</name>
 	</types>
 	<types>
