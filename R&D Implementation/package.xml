@@ -66,6 +66,10 @@
 		<name>OmniUiCard</name>
 	</types>
 	<types>
+		<members>CaseContact_OS_English_1</members>
+		<name>OmniScript</name>
+	</types>
+	<types>
 		<members>*</members>
 		<name>StaticResource</name>
 	</types>
